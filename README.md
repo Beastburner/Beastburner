@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Beastburner/Beastburner/main/banner.png" alt="Parth Soni Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Developer+%7C+Designer+%7C+Builder;Solana+Dev+%7C+React+Wizard;Always+in+Beastburner+mode+⚡" alt="Typing SVG"/>
 </p>
+
 
 # 👋 Hey, I’m Parth Soni  
 
