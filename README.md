@@ -55,7 +55,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beastburner&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beastburner&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Beastburner&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Beastburner&theme=tokyonight&hide_border=true)
+
 
 ---
 
