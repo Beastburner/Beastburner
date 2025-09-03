@@ -14,7 +14,7 @@
 ---
 
 🚀 19 y/o Developer • Designer • Community Builder  
-⚡ Founder @ [YLC (Your Local Creators)](https://github.com/YourLocalCreators) | Member of ALPHA.KORE  
+⚡ Founder Member of @ALPHA.KORE @github.com/alphakore-create  
 💻 I build full-stack apps, Solana bots & creative digital solutions  
 🎨 Also into design, editing, and 3D  
 
@@ -30,10 +30,10 @@
 
 ## 🛠️ Tech Stack
 **Languages:** JavaScript • Python • C  
-**Frontend:** React • TailwindCSS • Three.js • GSAP • WebGL  
+**Frontend:** React • TailwindCSS • Three.js 
 **Backend:** Supabase • Node.js  
-**Blockchain:** Solana • Jupiter API • Wallet Integrations  
-**Design Tools:** Figma • After Effects • Blender  
+**Blockchain:** Solana • Jupiter API • Wallet Integrations 
+**Design Tools:** Photoshop • After Effects • Blender • Premeire Pro
 
 ---
 
