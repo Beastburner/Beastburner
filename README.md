@@ -65,10 +65,10 @@
 ---
 
 ## 📬 Let’s Connect
-🌐 Portfolio: *coming soon*  
+🌐 Portfolio: https://parth-soni.vercel.app/  
 🐦 Twitter/X: [@yourhandle](#)  
 💼 LinkedIn: [@yourhandle](#)  
-📧 Email: your@email.com  
+📧 Email: parthsoni49585@email.com  
 
 ---
 
