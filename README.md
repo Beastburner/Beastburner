@@ -73,12 +73,14 @@
 
 ## 📬 Connect / Portfolio
 
-- Portfolio: https://parth-soni.vercel.app/  
-- LinkedIn: [your-linkedin-here](#)  
-- X / Twitter: [your-x-here](#)  
-- Email: parthsoni49585@email.com
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://parth-soni.vercel.app/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/parthsoni3010)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/authwall?trkInfo=AQEOKv2CcmEBwgAAAZlVznm4eC_HAjyuNy_-yo6KSmlr9I6uJ0rSQeI-YRLXdN170ikxkGI6HPWppkQCDqUJB_jSkj1zEdquGHzewP2ws3KW-5EFygCK3ArIY2scwitsUGODYPc=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fparth-soni-54a974288)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsoni49585@email.com)  
+
+</div>
 
 If you want any of these next:
 - Add **Daily Quote** / **Jokes** widget  
