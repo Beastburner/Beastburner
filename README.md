@@ -123,9 +123,3 @@
 
 </div>
 
-If you want any of these next:
-- Add **Daily Quote** / **Jokes** widget  
-- Add a custom **capsule-render** header (kept separate per your ask)  
-- Make the GitHub stat cards use a different theme or layout
-
-Tell me which of the above to add (or I can directly commit this for you if you give me repo access). Again — sorry for the mix-up. Fixed it now. ✅
