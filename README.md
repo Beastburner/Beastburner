@@ -13,7 +13,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Beastburner&label=Profile%20Views&color=00c4ff&style=for-the-badge)](https://github.com/Beastburner)
 [![GitHub followers](https://img.shields.io/github/followers/Beastburner?label=Followers&style=for-the-badge&logo=github&color=blue)](https://github.com/Beastburner?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Beastburner?label=Stars&style=for-the-badge&logo=github&color=yellow)](https://github.com/Beastburner?tab=repositories)
-![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+
 ![Solana Dev](https://img.shields.io/badge/Solana-Developer-9945FF?style=flat-square&logo=solana&logoColor=white)  
 ![Freelancer](https://img.shields.io/badge/Freelancer-Available-orange?style=flat-square&logo=upwork)  
 </div>
