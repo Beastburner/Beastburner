@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#24c6dc"/><stop offset="0.5" stop-color="#7c5cff"/><stop offset="1" stop-color="#ff5fa2"/>
+  </linearGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity="0.55"/>
+    <stop offset="0.5" stop-color="#fff" stop-opacity="0.08"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0.30"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0.04"/>
+  </linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs><clipPath id="cl"><rect width="1000" height="90" rx="45"/></clipPath><rect width="1000" height="90" rx="45" fill="#0a0a1c"/><g clip-path="url(#cl)">
+  <g opacity="0.9"><circle cx="150" cy="45" r="40" fill="#7c5cff" filter="url(#blur)" opacity=".6"><animate attributeName="cx" values="150;850;150" dur="12s" repeatCount="indefinite"/></circle>
+  <circle cx="850" cy="45" r="40" fill="#24c6dc" filter="url(#blur)" opacity=".6"><animate attributeName="cx" values="850;150;850" dur="12s" repeatCount="indefinite"/></circle></g>
+  
+  <rect x="10" y="10" width="980" height="70" rx="35" fill="#0a0a1c" opacity="0.35"/>
+  <rect x="10" y="10" width="980" height="70" rx="35" fill="url(#glass)" opacity="1"/>
+  <rect x="10.75" y="10.75" width="978.5" height="68.5" rx="35" fill="none" stroke="url(#rim)" stroke-width="1.5"/>
+  <path d="M45 11.5 H955" stroke="#fff" stroke-opacity="0.7" stroke-width="1" stroke-linecap="round" filter="url(#soft)"/>
+  <text x="50" y="57" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28">🐍</text>
+  <text x="95" y="56" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="url(#g)">CONTRIBUTIONS</text>
+  <circle cx="950" cy="45" r="5" fill="#24c6dc"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle></g></svg>

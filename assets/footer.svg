@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#24c6dc"/><stop offset="0.5" stop-color="#7c5cff"/><stop offset="1" stop-color="#ff5fa2"/>
+  </linearGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity="0.55"/>
+    <stop offset="0.5" stop-color="#fff" stop-opacity="0.08"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0.30"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0.04"/>
+  </linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs>
+  <g opacity=".85">
+  <path fill="#7c5cff" fill-opacity=".45" d="M0 70 C200 20 400 120 600 70 S1000 20 1200 70 V160 H0Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 70 C200 20 400 120 600 70 S1000 20 1200 70 V160 H0Z;M0 70 C200 120 400 20 600 70 S1000 120 1200 70 V160 H0Z;M0 70 C200 20 400 120 600 70 S1000 20 1200 70 V160 H0Z"/></path>
+  <path fill="#24c6dc" fill-opacity=".4" d="M0 90 C250 50 450 130 700 90 S1000 50 1200 90 V160 H0Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 90 C250 50 450 130 700 90 S1000 50 1200 90 V160 H0Z;M0 90 C250 130 450 50 700 90 S1000 130 1200 90 V160 H0Z;M0 90 C250 50 450 130 700 90 S1000 50 1200 90 V160 H0Z"/></path>
+  <path fill="#ff5fa2" fill-opacity=".35" d="M0 110 C300 80 500 140 800 110 S1050 80 1200 110 V160 H0Z">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite" values="M0 110 C300 80 500 140 800 110 S1050 80 1200 110 V160 H0Z;M0 110 C300 140 500 80 800 110 S1050 140 1200 110 V160 H0Z;M0 110 C300 80 500 140 800 110 S1050 80 1200 110 V160 H0Z"/></path></g>
+  <text x="600" y="132" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" fill="#fff" opacity=".85">Build. Break. Experiment. Repeat.</text></svg>

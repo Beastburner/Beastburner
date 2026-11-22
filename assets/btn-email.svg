@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="70" viewBox="0 0 220 70">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#24c6dc"/><stop offset="0.5" stop-color="#7c5cff"/><stop offset="1" stop-color="#ff5fa2"/>
+  </linearGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity="0.55"/>
+    <stop offset="0.5" stop-color="#fff" stop-opacity="0.08"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0.30"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0.04"/>
+  </linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs><clipPath id="cl"><rect width="220" height="70" rx="35"/></clipPath><rect width="220" height="70" rx="35" fill="#0a0a1c"/><g clip-path="url(#cl)">
+  <circle cx="40" cy="35" r="30" fill="#ff5fa2" filter="url(#blur)" opacity=".55"><animate attributeName="cx" values="40;180;40" dur="6s" repeatCount="indefinite"/></circle>
+  
+  <rect x="6" y="6" width="208" height="58" rx="29" fill="#0a0a1c" opacity="0.35"/>
+  <rect x="6" y="6" width="208" height="58" rx="29" fill="url(#glass)" opacity="1"/>
+  <rect x="6.75" y="6.75" width="206.5" height="56.5" rx="29" fill="none" stroke="url(#rim)" stroke-width="1.5"/>
+  <path d="M35 7.5 H185" stroke="#fff" stroke-opacity="0.7" stroke-width="1" stroke-linecap="round" filter="url(#soft)"/>
+  <circle cx="44" cy="35" r="17" fill="#ff5fa2" fill-opacity=".2" stroke="#ff5fa2" stroke-opacity=".7"/>
+  <text x="44" y="41" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">✉</text>
+  <text x="74" y="40" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#fff">EMAIL</text></g></svg>
