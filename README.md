@@ -1,125 +1,151 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Beastburner/Beastburner/main/banner.png" alt="Parth Soni Banner"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Developer+%7C+Designer+%7C+Builder;Solana+Dev+%7C+React+Wizard;Always+in+Beastburner+mode+⚡" alt="Typing SVG"/>
-</p>
+ <div align="center">
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:101B3D,70:164E8A,100:00D9FF&text=PARTH%20SONI&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=ENGINEER%20%7C%20BUILDER%20%7C%20CREATIVE%20TECHNOLOGIST&descSize=13&descAlignY=58&animation=fadeIn&stroke=00D9FF&strokeWidth=1" width="100%" />
+<a href="https://github.com/Beastburner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&height=55&lines=Building+things+that+actually+matter.;Engineering+the+future%2C+one+commit+at+a+time.;Web3+%E2%80%A2+AI+%E2%80%A2+Full+Stack+%E2%80%A2+Creative+Tech;Ideas+into+products.+Code+into+experiences.;Always+in+Beastburner+Mode+%E2%9A%A1" alt="Typing animation" />
+</a>
+<br/>
+<a href="https://github.com/Beastburner">
+  <img src="https://komarev.com/ghpvc/?username=Beastburner&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/Beastburner?tab=followers">
+  <img src="https://img.shields.io/github/followers/Beastburner?style=flat-square&color=7C3AED&label=FOLLOWERS" />
+</a>
+<a href="https://github.com/Beastburner?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Beastburner?style=flat-square&color=00D9FF&label=TOTAL+STARS" />
+</a>
 
-# 👋 Hey, I’m Parth Soni
+Turning ambitious ideas into working products.
 
-
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=Beastburner&label=Profile%20Views&color=00c4ff&style=for-the-badge)](https://github.com/Beastburner)
-[![GitHub followers](https://img.shields.io/github/followers/Beastburner?label=Followers&style=for-the-badge&logo=github&color=blue)](https://github.com/Beastburner?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Beastburner?label=Stars&style=for-the-badge&logo=github&color=yellow)](https://github.com/Beastburner?tab=repositories)
-
-![Solana Dev](https://img.shields.io/badge/Solana-Developer-9945FF?style=flat-square&logo=solana&logoColor=white)  
-![Freelancer](https://img.shields.io/badge/Freelancer-Available-orange?style=flat-square&logo=upwork)  
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 10px; margin: 0 0 20px 20px;">
-
-**Hey! I’m Parth Soni** — a 19 y/o **Developer, Designer & Community Builder**, always building in **Beastburner mode ⚡**.  
-
-- 🌐 **Developer**: React.js • Supabase • Tailwind • Node.js • WebGL  
-- ⛓️ **Blockchain**: Solana • Wallets • Smart Contracts • Jupiter API  
-- 🎨 **Creative Side**: Graphic Design • Video Editing • 3D Animation  
-- 🤝 **Community**: Co-founder of [ALPHA.KORE](https://github.com/alphakore-create), helping freelancers & startups grow  
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🎨 **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
-
-### ⚡ **Backend & DB**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ⛓️ **Blockchain**
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Jupiter API](https://img.shields.io/badge/Jupiter-API-orange?style=for-the-badge)
-![Wallets](https://img.shields.io/badge/Wallet%20Integrations-000?style=for-the-badge&logo=metamask&logoColor=white)
-
-### 🎨 **Design Tools**
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+Portfolio · LinkedIn · X / Twitter · Email
 
 </div>
 
----
+⸻
 
-## 🎯 Current Projects & Focus
+01 — About Me
 
-<div align="center">
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-![Service Platform](https://img.shields.io/badge/Uber_like%20Service%20Platform-🚀-00c4ff?style=for-the-badge&logo=mapbox&logoColor=white)  
-![Telegram Bot](https://img.shields.io/badge/Solana%20Telegram%20Bot-⛓️-9945FF?style=for-the-badge&logo=telegram&logoColor=white)  
-![SentinelChain](https://img.shields.io/badge/SentinelChain%20Firewall-🛡️-orange?style=for-the-badge&logo=ethereum&logoColor=white)  
+I’m Parth Soni, a developer, designer and technology enthusiast who loves turning complex ideas into real-world products.
 
-</div>
+I work across the intersection of software engineering, blockchain, AI and creative technology.
 
-🔥 Building:  
-- Real-time service provider tracking (Supabase + GoMaps)  
-- Telegram bot for Solana wallets, swaps & deposits  
-- Blockchain firewall with cybersecurity integration  
+* ⚡ Building full-stack applications and intelligent products.
+* ⛓️ Exploring Web3, Solana and blockchain infrastructure.
+* 🧠 Experimenting with AI, automation and multi-agent systems.
+* 🎨 Combining engineering with motion, 3D and interactive design.
+* 🚀 Co-building ALPHA.KORE.
 
----
+I don’t just want to write code. I want to build things people actually use.
 
-## 📊 GitHub Analytics
+<br clear="right"/>
 
-<div align="center">
+⸻
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beastburner&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beastburner&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Beastburner&theme=tokyonight&hide_border=true)  
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Beastburner&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Parth%27s%20Contribution%20Graph)
-
-</div>
-
----
-
-## 🏆 Achievements
+02 — Tech Stack
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Beastburner&theme=algolia&no-frame=true&margin-w=4&column=6)
+Languages
 
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,solidity&theme=dark" />
+
+Frontend & Creative Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css,gsap&theme=dark" />
+
+Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,supabase,firebase,postgres,docker,vercel&theme=dark" />
+
+Blockchain & Web3
+
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" />
+
+Also working with: Solana · Anchor · Jupiter API · Hardhat · Circom · Noir · Zero-Knowledge Proofs
+
+Design & Tools
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,aftereffects,blender,git,github,vscode&theme=dark" />
 </div>
----
 
-## 🎮 Fun / Personality
-- ⚡ I code in **Beastburner mode** (gaming + hacking energy)  
-- 💀 I sometimes *wipe code* and rewrite it better — creative resets  
-- 🎯 Valorant player — clutch or rage-quit (depends on ping)
+⸻
 
----
+03 — Selected Projects
 
-## 📬 Connect / Portfolio
+<div align="center">
+<a href="https://github.com/Beastburner/servisync1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beastburner&repo=servisync1&theme=tokyonight&hide_border=true&bg_color=080D1A" />
+</a>
+<a href="https://github.com/AlphaKore-create/Pet.Ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaKore-create&repo=Pet.Ai&theme=tokyonight&hide_border=true&bg_color=080D1A" />
+</a>
+</div>
+
+Project	What I’m building
+ServiSync	A real-time home services marketplace with provider tracking
+Cypher Wallet	Privacy-focused Web3 wallet with shielded transactions
+SentinelChain	Blockchain firewall and security infrastructure
+Jarvis	An intelligent personal assistant ecosystem
+Synth.ai	AI-powered music and playlist experiences
+
+⸻
+
+04 — GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Beastburner&show_icons=true&count_private=true&hide_border=true&bg_color=080D1A&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beastburner&layout=compact&langs_count=8&hide_border=true&bg_color=080D1A&title_color=00D9FF&text_color=C9D1D9" />
+<br/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Beastburner&theme=tokyonight&hide_border=true&background=080D1A&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" />
+</div>
+
+⸻
+
+05 — Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beastburner&bg_color=080D1A&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&area_color=164E8A&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+<br/>
+<img src="https://raw.githubusercontent.com/Beastburner/Beastburner/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+</div>
+
+⸻
+
+06 — Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Beastburner&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
+</div>
+
+⸻
+
+07 — Beyond The Terminal
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://parth-soni.vercel.app/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/parthsoni3010)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/authwall?trkInfo=AQEOKv2CcmEBwgAAAZlVznm4eC_HAjyuNy_-yo6KSmlr9I6uJ0rSQeI-YRLXdN170ikxkGI6HPWppkQCDqUJB_jSkj1zEdquGHzewP2ws3KW-5EFygCK3ArIY2scwitsUGODYPc=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fparth-soni-54a974288)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsoni49585@email.com)  
+⚡ Beastburner Mode	🎮 Gaming	🎨 Creative Tech
+Build. Break. Rebuild.	Valorant enthusiast	Motion, 3D & design
+
+My philosophy: Stay curious. Build relentlessly. Never stop experimenting.
 
 </div>
 
+⸻
+
+<div align="center">
+
+LET’S BUILD SOMETHING EXTRAORDINARY.
+
+<a href="https://parth-soni.vercel.app/">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+<a href="mailto:parthsoni49585@email.com">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:164E8A,100:050816&height=110&section=footer&animation=fadeIn" width="100%" />
+
+Designed with curiosity. Built with code. Powered by Beastburner mode ⚡
+
+</div>
